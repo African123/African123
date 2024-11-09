@@ -4,8 +4,8 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 from telegram.error import TelegramError
 
-TELEGRAM_BOT_TOKEN = '7868284104:AAFDXy35Z5w143xlP0HlQd0UEU1_DCWThDE'
-ALLOWED_USER_ID = 1441704343
+TELEGRAM_BOT_TOKEN = '7692263395:AAFz8jM9uNfyqDHx2rT8YOjEIecqunKUlvc'
+ALLOWED_USER_ID = 1613501111
 bot_access_free = True  
 
 async def start(update: Update, context: CallbackContext):
